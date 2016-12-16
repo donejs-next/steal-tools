@@ -48,11 +48,13 @@
     "mock-fs": "3.1.0",
     "mockery": "^1.4.1",
     "rimraf": "^2.5.2",
+    "tree-kill": "^1.0.0"
+  },
+  "peerDependencies": {
     "steal-conditional": "^0.2.0",
     "steal-css": "^1.0.0",
     "steal-qunit": "^1.0.0",
-    "testee": "^0.2.0",
-    "tree-kill": "^1.0.0"
+    "testee": "^0.2.0"
   },
   "engineDependencies": {
     "node": {
